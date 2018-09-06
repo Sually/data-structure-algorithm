@@ -3,6 +3,7 @@ import random
 import sys
 sys.setrecursionlimit(10000)  # set recursion depth
 
+
 # avg=O(nlogn) best=O(nlogn) worst=O(n*n) space=O(logn)~O(n)
 class S:
 

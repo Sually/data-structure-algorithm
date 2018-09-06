@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+
 # avg=O(logn)
 class S:
 
